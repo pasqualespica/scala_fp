@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df109e1d-5ece-4948-8fdb-2aa1cdc574e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1tylFhKQSWeUbgUbP9qDqEk1D9C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/akka3ex/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../papoPA_work/Project/github/pagoPa_system/pagopa-nodo4-common-xml" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../papoPA_work/Project/github/pagoPa_system/pagopa-nodo4-nodo-dei-pagamenti" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../papoPA_work/Project/github/pagopa-wfesp-wfesp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../__TEMP/kafka-akka-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../__TEMP/nodo_azure_hubevent/pagopa-nodo4-nodo-dei-pagamenti" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../__TEMP/pagopa-nodo4-common-xml" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../__TEMP/pagopa-nodo4-nodo-dei-pagamenti" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df109e1d-5ece-4948-8fdb-2aa1cdc574e6" name="Default Changelist" comment="" />
+      <created>1623749107918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623749107918</updated>
+    </task>
+    <servers />
+  </component>
+</project>
