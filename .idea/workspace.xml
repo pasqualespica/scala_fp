@@ -32,7 +32,7 @@
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.StringOps">
+  <component name="RunManager" selected="Application.OOBasics">
     <configuration name="CBNvsCBV" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part1basics.CBNvsCBV" />
       <module name="scala_fp_prj" />
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Functions" />
+    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.OOBasics" />
       <module name="scala_fp_prj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="lectures.part2oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOBasics" />
         <item itemvalue="Application.StringOps" />
         <item itemvalue="Application.DefaultArgs" />
         <item itemvalue="Application.CBNvsCBV" />
         <item itemvalue="Application.Recursion" />
-        <item itemvalue="Application.Functions" />
       </list>
     </recent_temporary>
   </component>
