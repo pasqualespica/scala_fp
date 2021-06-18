@@ -39,7 +39,12 @@ object OOBasics extends App {
   println(novel.isWrittenBy(imposter))
 
   val counter = new Counter
+  val counter2 = new Counter
+  println(counter2)
   counter.inc.print
+  println(counter)
+  counter.inc.print
+  println(counter, "-------")
   counter.inc.inc.inc.print
   counter.inc(10).print
 }
