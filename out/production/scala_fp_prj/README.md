@@ -27,3 +27,10 @@ https://github.com/rockthejvm/scala-beginners
 - name
   - expression is passed literally
   - expression is evaluated at every use within
+  
+#### Classes 
+- Define classes `class` keyword
+- Instantiang `new`
+- Parameters vs fields ( using `val` or `var` before nDame parameter)
+- Define methods
+- Calling methods

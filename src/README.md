@@ -34,3 +34,9 @@ https://github.com/rockthejvm/scala-beginners
 - Parameters vs fields ( using `val` or `var` before nDame parameter)
 - Define methods
 - Calling methods
+
+#### Method Notations
+- infix : _object method parameter_ `mary like "Film`
+- prefix : `!mary` equivalent to `mary.unary_!` ( only allowed for `+,-,!,~`)
+- postfix : `mary.isAlive` or `mary isAlive` ( for methods with NO parameters )
+- `apply` : special method to `mary("Hello")` equivalent to `mary.apply("Hello")` 
