@@ -40,3 +40,15 @@ https://github.com/rockthejvm/scala-beginners
 - prefix : `!mary` equivalent to `mary.unary_!` ( only allowed for `+,-,!,~`)
 - postfix : `mary.isAlive` or `mary isAlive` ( for methods with NO parameters )
 - `apply` : special method to `mary("Hello")` equivalent to `mary.apply("Hello")` 
+
+#### Object
+- Scala doesn't have `static` values\methods
+- objects
+  - are in their own class
+  - are the only instance
+  - singleton pattern in one line
+- companions ( object + class ) 
+  - can access each other's private members
+  - Scala is more OO than JAVA !
+- applications
+  - `def main(args: Array[String]): Unit`
