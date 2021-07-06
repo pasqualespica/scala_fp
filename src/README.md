@@ -52,3 +52,8 @@ https://github.com/rockthejvm/scala-beginners
   - Scala is more OO than JAVA !
 - applications
   - `def main(args: Array[String]): Unit`
+
+#### Traits
+  - traits do not have constructor parameters
+  - multiple traits may be  inherited by the same class
+  - traits = behavior, abstract class = "thing"

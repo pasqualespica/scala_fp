@@ -32,7 +32,7 @@
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.AbstractDataTypes">
+  <component name="RunManager" selected="Application.ListTest">
     <configuration name="AbstractDataTypes" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part2oop.AbstractDataTypes" />
       <module name="scala_fp_prj" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodNatatons" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.MethodNotations" />
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.ListTest" />
       <module name="scala_fp_prj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part2oop.*" />
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.AbstractDataTypes" />
         <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.Objects" />
         <item itemvalue="Application.JavaPlayGround" />
-        <item itemvalue="Application.MethodNatatons" />
       </list>
     </recent_temporary>
   </component>
