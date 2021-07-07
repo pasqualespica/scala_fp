@@ -57,3 +57,12 @@ https://github.com/rockthejvm/scala-beginners
   - traits do not have constructor parameters
   - multiple traits may be  inherited by the same class
   - traits = behavior, abstract class = "thing"
+
+#### Generics
+  - `trait List[+A]` yes (covariant)
+  - `trait List[A]` no (invariant) - dafault
+  - `trait List[-A]` hell no| (covariant)
+  - Bounded types : 
+    - The term `B >: A` expresses that the type parameter `B` or the abstract type `B` refer to a supertype of type `A`
+    - An upper type bound `T <: A` declares that type variable `T` refers to a subtype of type `A`.
+

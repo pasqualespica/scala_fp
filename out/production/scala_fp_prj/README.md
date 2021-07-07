@@ -52,3 +52,14 @@ https://github.com/rockthejvm/scala-beginners
   - Scala is more OO than JAVA !
 - applications
   - `def main(args: Array[String]): Unit`
+
+#### Traits
+  - traits do not have constructor parameters
+  - multiple traits may be  inherited by the same class
+  - traits = behavior, abstract class = "thing"
+
+#### Generics
+  - 
+  - The term `B >: A` expresses that the type parameter `B` or the abstract type `B` refer to a supertype of type `A`
+  - An upper type bound `T <: A` declares that type variable `T` refers to a subtype of type `A`.
+
